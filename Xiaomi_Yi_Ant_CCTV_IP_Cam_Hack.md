@@ -61,12 +61,20 @@ sed -i  's|api.xiaoyi.com/v4/ipc/check_did|api.xiaoyi.cox/v4/ipc/check_did|g' /h
 reboot
 ```
 
+# 타임존 해킹
+작성중.
+
+한국의 타임존과 관련된 수정
+
 # 내부 구조의 분석
 
 작성중.
 
 
 # RTSP 프로토콜 활성화
+작성중.
+
+# 시놀로지 연동
 작성중.
 
 # 타 사오미 환경과 동시 사용
