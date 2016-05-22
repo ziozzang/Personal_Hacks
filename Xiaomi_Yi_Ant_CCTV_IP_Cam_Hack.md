@@ -72,15 +72,17 @@ reboot
 
 
 # RTSP 프로토콜 활성화
-작성중.
+1.8.6.1B 기준, 최신 버전의 경우에는 http://xiaoyi.querex.be/ 페이지 에서 1.8.5.1M_test-rtspfix-4.zip (RTSP enable script) 를 받아서 test/rtspsvrM 파일을 /home/rtspsvr 로 리네이밍후 덮어 쓰기 해준다. 재부팅후 잘 작동함.
+
+테스트는 rtsp://IP_ADDR:554/ch0_0.h264 로 해 본다. 다음 팟플레이어에서 동작 잘됨
 
 # 시놀로지 연동
-작성중.
+* https://forum.synology.com/enu/viewtopic.php?t=95211 참고. 테스트 결과 아주 잘 작동한다.
 
 # 타 사오미 환경과 동시 사용
 작성중.
 
-샤오미 홈 IoT 어플라이언스를 구축 한다면 Mi Home 에서 로케일을 중국으로 설정 하여야 한다. 즉 한국버전 캠을 사용하지 못한다는 것을 감안해야 한다.
+샤오미 홈 IoT 어플라이언스를 구축 한다면 Mi Home 에서 서버 위치를 중국으로 설정 하여야 한다. 즉 한국버전 캠을 사용하지 못한다는 것을 감안해야 한다.
 
 # 참조
  * http://diy.2pmc.net/solved-xiaomi-xiao-yi-ant-home-camera-can-used-china/#more
