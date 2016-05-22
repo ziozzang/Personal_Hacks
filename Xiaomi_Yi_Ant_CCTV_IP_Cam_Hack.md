@@ -81,3 +81,9 @@ reboot
 작성중.
 
 샤오미 홈 IoT 어플라이언스를 구축 한다면 Mi Home 에서 로케일을 중국으로 설정 하여야 한다. 즉 한국버전 캠을 사용하지 못한다는 것을 감안해야 한다.
+
+# 참조
+ * http://diy.2pmc.net/solved-xiaomi-xiao-yi-ant-home-camera-can-used-china/#more
+ * http://xiaoyi.querex.be/
+ * http://en.miui.com/thread-196713-1-1.html
+ * https://disqus.com/home/discussion/twigstechtips/twigs_tech_tips_setting_up_xiaomi_yi_small_ants_intelligent_camera_home_ip_camera/
